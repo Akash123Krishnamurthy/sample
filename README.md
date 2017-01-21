@@ -1,8 +1,8 @@
 ## Types of Data Analysis
 ### Git Learning
 
-*Getting Data
 *Exploratory Data Analysis
+*Getting Data
 *Reproducible Research
 *Statistical Inference
 *Regression Models
